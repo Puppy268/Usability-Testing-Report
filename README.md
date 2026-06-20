@@ -31,7 +31,8 @@ Many applications face usability challenges that can affect user satisfaction an
 ---
 
 ## 📷 Screenshot
-<img src="usability-testing-report.png" width="900" alt="Usability Testing Report">
+
+<img src="Usability-Testing-Report.png">
 
 ---
 
