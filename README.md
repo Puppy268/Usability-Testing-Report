@@ -32,7 +32,7 @@ Many applications face usability challenges that can affect user satisfaction an
 
 ## 📷 Screenshot
 
-<img src="Usability-Testing-Report.png">
+<img src="https://raw.githubusercontent.com/Puppy268/Usability-Testing-Report/main/Usability%20Testing%20Report.png" width="900" alt="Usability Testing Report">
 
 ---
 
